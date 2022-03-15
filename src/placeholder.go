@@ -1,7 +1,7 @@
-package main
+package gunship
 
 import "fmt"
 
-func main() {
+func Placeholder() {
         fmt.Println("Joe Mama Biden")
 }
